@@ -1,5 +1,3 @@
 # by @pjpreston
-msg = "Roll a dice!"
-print(1)
-print(2)
-print(msg)
+for _ in range(100):
+    print("hello")
